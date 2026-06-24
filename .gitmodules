@@ -1,0 +1,10 @@
+[submodule "isaaclab"]
+	path = isaaclab
+	url = git@github.com:JackyLi-HKUST/Lander.git
+	branch = trivial
+[submodule "mujoco"]
+	path = mujoco
+	url = git@github.com:SITIOKLONG/Lander_mujoco.git
+[submodule "ros2"]
+	path = ros2
+	url = git@github.com:marc-ko/ros2_ah_dou_ah_gang.git
